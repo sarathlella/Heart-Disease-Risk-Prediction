@@ -84,7 +84,7 @@ pip install -r requirements.txt
 
 ## 👨‍⚕️ Author
 
-**Sarath Lella**ML & Data Science | Transitioning to AI in Healthcare🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | 🧠 [GitHub](https://github.com/yourusername)
+**Sarath Lella**ML & Data Science | Transitioning to AI in Healthcare🔗 [LinkedIn](https://www.linkedin.com/in/sarathlella) | 🧠 [GitHub](https://github.com/sarathlella)
 
 ---
 
